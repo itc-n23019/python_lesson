@@ -1,0 +1,1 @@
+return "animals".index("m")
